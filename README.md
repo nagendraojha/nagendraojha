@@ -62,7 +62,16 @@
 
 ## 🪐 FUTURE IS HERE
 
-[![Watch the Hologram Dashboard](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=2xkODJbAY6Q))
+
+## 🪐 Watch the Sci-Fi Video in Action
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ThDYazipjSI&autoplay=1" target="_blank">
+    <img src="https://img.youtube.com/vi/ThDYazipjSI/0.jpg" alt="Click to watch Sci-Fi Video" />
+  </a>
+</p>
+
+
 
 
 ---
