@@ -1,52 +1,91 @@
-<h1 align="center">Hey there, I'm Nagendra Kumar Ojha 👋</h1>
+<h1 align="center">
+  🛸✨ Nagendra Kumar Ojha – Architect of the DataVerse ✨🛸
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%7C+Machine+Learning+Engineer;Loves+Sci-Fi+%F0%9F%8C%8C+%7C+Code+%E2%9C%A8+%7C+Learn+%F0%9F%93%9A+%7C+Build+%F0%9F%9A%80&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Forging+Models+in+Quantum+Space...;Cracking+the+ML+Matrix+Pipeline;Unleashing+Neural+Drones+into+Dark+Data;Streaming+Insights+from+Across+the+Multiverse;Code+Sorcerer+on+a+Mission+from+Earth+%E2%9C%A8" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 Identity Protocol: Activated
 
-- 🎓 M.Tech in **Data Science & Analytics**  
-- 💻 B.Tech in **Computer Science**
-- 🧠 Passionate about **AI, Machine Learning, and Data Engineering**
-- ✈️ Built predictive models using **real-world airline data** (British Airways Simulation)
-- 🤖 Currently playing with **XGBoost, LightGBM, and SHAP** for anomaly detection
-- 🌌 Sci-fi fan, tech explorer, and curious learner!
-
----
-
-## 🚀 Skills & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/-LightGBM-006400?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> 🪪 **Name**: Nagendra Kumar Ojha  
+> 🧙‍♂️ **Role**: Data Alchemist & Time-Warping ML Engineer  
+> 🌍 **Base**: Jaipur, India — Planet Earth  
+> 🧠 **Academic Matrix**: M.Tech (DS&A) | B.Tech (CS)  
+> 🎯 **Prime Directive**: Predict → Automate → Transform  
+> ⚙️ **Weapons of Choice**: Python, LightGBM, Optuna, XGBoost, SHAP, Pandas  
+> 🕹️ **Side Quest**: Retro Bubble Shooter (Pygame realm)  
+> 🔭 **Focus Zones**: Anomaly Mapping, Feature Alchemy, Real-Time AI Simulations  
 
 ---
 
-## 📈 Current Projects
-
-- 🧩 Competing in **Kaggle-style anomaly detection** challenges
-- 🎮 Building a **Bubble Shooter game** using Pygame
-- 🌐 Crafting an interactive **React portfolio** with animations and flair
-- 🔬 Optimizing classical + deep learning models with **Optuna** and **SMOTE**
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagendra-ojha/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nagendra.ojha.official@gmail.com)
-
----
+## ⚔️ Arsenal: Galactic Grade Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagendraojha&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagendraojha&theme=react" alt="Streak Stats"/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit-learn,tensorflow,keras,git,vscode,javascript,react,linux,sql&theme=light" />
 </p>
 
+---
+
+## 🚀 Mission Logs: DataVerse Deployments
+
+- 🛰️ **Anomaly Detector v4.1**: Sentinels powered by LightGBM + Optuna guarding sensor zones
+- 👾 **Bubble Shooter: Universe Edition**: Classic arcade magic reborn via Pygame spells
+- 🪐 **React Portfolio Nebula**: Interactive, animated gateway through the data wormhole
+- ✈️ **British Airways Feedback Engine**: Navigating textual starfields via NLP + Scraping
+
+---
+
+## 🔮 Fun Facts from the AI Oracle
+
+- 📚 Reads ML papers under starlight to summon inspiration
+- 🧘‍♂️ Meditates with SHAP plots to reach model clarity
+- 👽 Sci-fi enthusiast — dreams coded in quantum layers
+- 💬 Talks to datasets... and yes, they talk back
+
+---
+
+## 🌐 Connect to the Command Base
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagendra-ojha-2k25">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nagendraojha3152000@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 System Diagnostics: Code Activity Matrix
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagendraojha&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraojha&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagendraojha&theme=highcontrast" />
+</p>
+
+---
+
+## 👽 Final Transmission
+
+```python
+class Human:
+    def __init__(self):
+        self.role = "ML Developer"
+        self.origin = "Earth"
+        self.skills = ["Data Science", "Deep Learning", "Web Scraping"]
+
+    def mission(self):
+        return "Use AI to elevate human potential 🚀🧠"
+
+me = Human()
+print(me.mission())
+"I don’t just build models — I decode galaxies, predict cosmic patterns, and channel AI magic across dimensions."
+– 🪐 Nagendra Kumar Ojha, Commander of the DataVerse
