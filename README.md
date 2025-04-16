@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Forging+Models+in+Quantum+Space...;Cracking+the+ML+Matrix+Pipeline;Unleashing+Neural+Drones+into+Dark+Data;Streaming+Insights+from+Across+the+Multiverse;Code+Sorcerer+on+a+Mission+from+Earth+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Forging+Models+in+Quantum+Space...;Cracking+the+ML+Matrix+Pipeline;Unleashing+Neural+Drones+into+Dark+Data;Streaming+Insights+from+Across+the+Multiverse;DATA+SCIENTIST;MACHINE+LEARNING+ENGINEER;DATA+ANALYST;ANALYST;Code+Sorcerer+on+a+Mission+from+Earth+%E2%9C%A8" />
 </p>
 
 ---
@@ -11,11 +11,11 @@
 ## 👤 Identity Protocol: Activated
 
 > 🪪 **Name**: Nagendra Kumar Ojha  
-> 🧙‍♂️ **Role**: Data Alchemist & Time-Warping ML Engineer  
+> 🧙‍♂️ **Role**: Data Engineer || Data Scientist || Analyst || Time-Warping ML Engineer  
 > 🌍 **Base**: Jaipur, India — Planet Earth  
 > 🧠 **Academic Matrix**: M.Tech (DS&A) | B.Tech (CS)  
 > 🎯 **Prime Directive**: Predict → Automate → Transform  
-> ⚙️ **Weapons of Choice**: Python, LightGBM, Optuna, XGBoost, SHAP, Pandas  
+> ⚙️ **Weapons of Choice**: Python, Classic Models, Deep Learning 
 > 🕹️ **Side Quest**: Retro Bubble Shooter (Pygame realm)  
 > 🔭 **Focus Zones**: Anomaly Mapping, Feature Alchemy, Real-Time AI Simulations  
 
@@ -60,16 +60,10 @@
 
 ---
 
-## 📊 System Diagnostics: Code Activity Matrix
+## 🪐 FUTURE IS HERE
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagendraojha&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraojha&layout=compact&theme=tokyonight" height="160" />
-</p>
+[![Watch the Hologram Dashboard](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=2xkODJbAY6Q))
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagendraojha&theme=highcontrast" />
-</p>
 
 ---
 
