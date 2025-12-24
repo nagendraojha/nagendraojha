@@ -1,205 +1,148 @@
 # ⚡ NAGENDRA KUMAR OJHA
-
 ### AI / Machine Learning Engineer · Researcher · Systems Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Engineering+Intelligence+That+Actually+Works.;From+Classical+ML+to+LLMs+and+RAG+Systems.;Research-Minded.+Production-Oriented.;Turning+Complex+Data+into+Reliable+Systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=F75C7E&center=true&vCenter=true&width=950&lines=Building+Production-Grade+AI+Systems.;From+Classical+ML+to+LLMs+and+RAG.;Research-Driven.+Industry-Oriented.;Accuracy+%3E+Hype.+Systems+%3E+Demos." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagendraojha&label=PROFILE+VIEWS&color=36BCF7&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=nagendraojha&label=PROFILE+VIEWS&color=F75C7E&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Who I Am (No Buzzwords)
+## 🧠 About Me
 
-I’m an **AI / ML Engineer** who builds **systems**, not demos.
+I am an **AI / Machine Learning Engineer** focused on building **real, reliable, production-grade intelligence systems** — not demos, not toy notebooks, and not hype-driven experiments.
 
-My work sits at the intersection of:
+My work spans:
+- **Machine Learning systems**
+- **Computer Vision for real sensors**
+- **Generative AI & LLM pipelines**
+- **RAG-based document intelligence**
+- **Research-driven model design**
 
-* **Machine Learning**
-* **Computer Vision**
-* **Generative AI & LLMs**
-* **RAG-based document intelligence**
-* **Research-driven problem solving**
+I care deeply about **correctness, robustness, validation, and failure modes**.  
+If a model hallucinates, breaks under scale, or fails silently — I redesign the system.
 
-I care about:
-
-* correctness over hype
-* reliability over novelty
-* systems that survive real data, not toy examples
-
-If a model hallucinates, breaks under scale, or can’t explain itself — I fix it.
+This mindset aligns closely with how **FAANG, applied research labs, and deep-tech startups** build AI.
 
 ---
 
-## 🎓 Academic Foundation
+## 🎓 Academic & Research Foundation
 
-* **M.Tech — Data Science & Analytics**
-  *Lovely Professional University*
+- **M.Tech — Data Science & Analytics**  
+  Lovely Professional University  
   **CGPA: 8.76 / 10**
 
-* **B.Tech — Computer Science & Engineering**
-  *I.K. Gujral Punjab Technical University*
+- **B.Tech — Computer Science & Engineering**  
+  I.K. Gujral Punjab Technical University  
   **CGPA: 7.8 / 10**
 
-* **IEEE Published Researcher**
-  *Hybrid CNN–LSTM models for real-world vision tasks*
+- **IEEE Published Researcher**  
+  Hybrid CNN–LSTM architectures for real-world computer vision tasks
 
-* **Quantum Computing Research**
-  *IIT Roorkee (Government-linked research program)*
-
----
-
-## 🛠️ Technical Stack (What I Actually Use)
-
-### Core Engineering
-
-* **Python**, **NumPy**, **Pandas**
-* **PyTorch**, **TensorFlow**
-* **Scikit-Learn**
-
-### Generative AI & LLM Systems
-
-* **LangChain**
-* **Ollama (Local LLMs)**
-* **RAG Pipelines**
-* **Prompt Engineering**
-* **LLM Validation & Anti-Hallucination Design**
-
-### Computer Vision
-
-* **OpenCV**
-* **Classical CV + Deep Learning**
-* **CNN / LSTM / Hybrid Architectures**
-
-### Data & Infrastructure
-
-* **FAISS (Vector Search)**
-* **MySQL**, **MongoDB**
-* **Docker**, **Git**
-* **AWS (Foundational Services)**
+- **Quantum Computing Research**  
+  IIT Roorkee (Government-linked research collaboration)
 
 ---
 
-## 🚀 Projects That Define My Profile
+## 🛠️ Technical Stack
 
-### 🔥 RGB–Thermal Image Alignment System
+**Core ML & Engineering**
+- Python, NumPy, Pandas
+- PyTorch, TensorFlow
+- Scikit-Learn
 
-**Computer Vision | Geometry | Real Sensor Data**
+**Generative AI & LLM Systems**
+- LangChain
+- Ollama (local LLMs)
+- RAG pipelines
+- Prompt engineering
+- Hallucination control & validation
 
-* Feature-based homography alignment
-* Robust fallback for failed matches
-* Handles real drone thermal + RGB imagery
-* Built for **non-ideal, real-world sensor conditions**
+**Computer Vision**
+- OpenCV
+- Classical CV + Deep Learning
+- CNN / LSTM / hybrid models
 
-> This is not image overlay.
-> This is geometric alignment done properly.
-
----
-
-### 🔍 Change Detection Algorithm
-
-**Classical CV | SSIM | Surveillance-grade logic**
-
-* Detects meaningful structural changes
-* Ignores illumination noise
-* Identifies small objects (people, vehicles)
-* Batch-ready, deterministic pipeline
-
-> Designed like an engineer, not a Kaggle notebook.
+**Data & Infrastructure**
+- FAISS (vector search)
+- MySQL, MongoDB
+- Docker, Git
+- AWS (foundational services)
 
 ---
 
-### 🧾 Automated Template Filling (RAG-Style System)
+## 🚀 Representative Projects
 
-**LLMs | Anchors | Document Intelligence**
+**RGB–Thermal Image Alignment System**  
+Feature-based homography alignment for real drone RGB + thermal sensors, including robust fallbacks for failure cases. Built for non-ideal, real-world data — not clean benchmarks.
 
-* PDF → structured memory
-* DOCX template understanding
-* Placeholder detection without hard-coding
-* Anchor-based extraction to prevent hallucination
-* Human-in-the-loop validation
+**Change Detection Algorithm**  
+SSIM-based structural change detection that ignores illumination noise while detecting small but meaningful changes. Designed for surveillance-grade reliability.
 
-> This is how **LLMs should be used in production**.
+**Automated Template Filling (LLM + Anchors)**  
+AI-assisted document automation system combining rule-based anchoring with LLM reasoning to prevent hallucinations. Includes human-in-the-loop validation and deterministic outputs.
 
----
-
-### 🔬 Fire & Smoke Detection (IEEE)
-
-**Deep Learning | Vision | Research**
-
-* CNN + LSTM hybrid architecture
-* Temporal consistency modeling
-* Published in IEEE
-* Designed for real deployment, not benchmarks
+**Fire & Smoke Detection (IEEE)**  
+Research-driven CNN–LSTM hybrid for temporal consistency in vision tasks. Published work focused on deployment realism.
 
 ---
 
-## 💼 Industry Experience
+## 💼 Industry & Research Experience
 
-### Machine Learning Engineer Intern
+**Machine Learning Engineer Intern — Solitaire Infosys**  
+Built end-to-end ML pipelines, performed feature engineering on real datasets, and optimized model performance with a strong focus on reliability and validation.
 
-**Solitaire Infosys**
-
-* Built end-to-end ML pipelines
-* Feature engineering for real datasets
-* Optimized model performance & reliability
-* Worked across data ingestion → modeling → evaluation
-
----
-
-### Quantum Computing Researcher
-
-**IIT Roorkee (Research Collaboration)**
-
-* Studied quantum algorithms
-* Explored computational speed-ups
-* Research-oriented problem formulation
-* Exposure to government-grade research workflows
-
----
-
-## 🏅 Certifications (Selected)
-
-* **Oracle Certified**
-  AI Vector Search · OCI AI Foundations · Database Foundations
-
-* **British Airways – Data Science Simulation**
-
-* **Google Analytics Certification**
+**Quantum Computing Researcher — IIT Roorkee**  
+Worked on quantum algorithms and computational speed-ups within a government-linked research environment, gaining exposure to research-grade problem formulation.
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nagendraojha&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraojha&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nagendraojha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendraojha&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendraojha&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Connect (If You Build Serious Things)
+## 💼 What I’m Looking For
 
-* **LinkedIn**: [https://www.linkedin.com/in/nagendra-ojha-2k25/](https://www.linkedin.com/in/nagendra-ojha-2k25/)
-* **Email**: [nagendraojha3152000@gmail.com](mailto:nagendraojha3152000@gmail.com)
-* **Portfolio / GitHub**: [https://github.com/nagendraojha](https://github.com/nagendraojha)
+Roles where I can work on:
+- Applied Machine Learning systems
+- Computer Vision
+- LLM infrastructure & RAG
+- Research → Production pipelines
 
----
-
-## 🧭 Philosophy
-
-> **AI is not magic.**
-> It’s engineering, discipline, validation, and iteration.
->
-> I build systems that **work when the data is messy, the rules are unclear, and the stakes are real**.
+Titles of interest:
+**Machine Learning Engineer · Applied Scientist · AI Engineer**
 
 ---
 
-### ⭐ If you’re reviewing this profile:
+## 📬 Connect
 
-You’re not looking at a “tutorial engineer”.
-You’re looking at someone **training to build production-grade AI systems**.
+- **LinkedIn**: https://www.linkedin.com/in/nagendra-ojha-2k25/
+- **Email**: nagendraojha3152000@gmail.com
+- **GitHub**: https://github.com/nagendraojha
 
+---
+
+## 🧭 Engineering Philosophy
+
+> AI is not magic.  
+> It is engineering, discipline, validation, and iteration.
+
+I build systems that **work when the data is messy, the rules are unclear, and the stakes are real**.
+
+---
+
+⭐ If you’re reviewing this profile:  
+This is not a tutorial engineer.  
+This is someone building toward **serious AI systems**.
