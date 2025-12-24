@@ -1,35 +1,31 @@
-# ⚡ NAGENDRA KUMAR OJHA
-### AI / Machine Learning Engineer · Researcher · Systems Builder
+# 💫 Nagendra Kumar Ojha  
+### AI / Machine Learning Engineer · Research-Oriented Systems Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=F75C7E&center=true&vCenter=true&width=950&lines=Building+Production-Grade+AI+Systems.;From+Classical+ML+to+LLMs+and+RAG.;Research-Driven.+Industry-Oriented.;Accuracy+%3E+Hype.+Systems+%3E+Demos." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+Reliable+AI+Systems.;From+Classical+ML+to+LLMs+and+RAG.;Research-Informed.+Production-Minded.;Optimizing+for+Correctness%2C+Not+Hype." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagendraojha&label=PROFILE+VIEWS&color=F75C7E&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=nagendraojha&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I am an **AI / Machine Learning Engineer** focused on building **real, reliable, production-grade intelligence systems** — not demos, not toy notebooks, and not hype-driven experiments.
+I am an **AI / Machine Learning Engineer** with a strong interest in **applied ML systems, computer vision, and LLM-based document intelligence**.
 
-My work spans:
-- **Machine Learning systems**
-- **Computer Vision for real sensors**
-- **Generative AI & LLM pipelines**
-- **RAG-based document intelligence**
-- **Research-driven model design**
+My focus is on building systems that are:
+- **correct**
+- **robust**
+- **interpretable**
+- **usable beyond controlled demos**
 
-I care deeply about **correctness, robustness, validation, and failure modes**.  
-If a model hallucinates, breaks under scale, or fails silently — I redesign the system.
-
-This mindset aligns closely with how **FAANG, applied research labs, and deep-tech startups** build AI.
+I enjoy working at the boundary between **research and production**, where models must operate under real-world constraints such as noisy data, incomplete labels, and ambiguous requirements.
 
 ---
 
-## 🎓 Academic & Research Foundation
+## 🎓 Education & Research
 
 - **M.Tech — Data Science & Analytics**  
   Lovely Professional University  
@@ -39,64 +35,71 @@ This mindset aligns closely with how **FAANG, applied research labs, and deep-te
   I.K. Gujral Punjab Technical University  
   **CGPA: 7.8 / 10**
 
-- **IEEE Published Researcher**  
-  Hybrid CNN–LSTM architectures for real-world computer vision tasks
+- **IEEE Published Author**  
+  Research on hybrid **CNN–LSTM architectures** for real-world computer vision tasks
 
 - **Quantum Computing Research**  
-  IIT Roorkee (Government-linked research collaboration)
+  IIT Roorkee (Government-linked research program)  
+  Focus on algorithmic concepts and computational speed-up
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
-**Core ML & Engineering**
+**Machine Learning & AI**
 - Python, NumPy, Pandas
 - PyTorch, TensorFlow
 - Scikit-Learn
 
 **Generative AI & LLM Systems**
 - LangChain
-- Ollama (local LLMs)
-- RAG pipelines
-- Prompt engineering
-- Hallucination control & validation
+- Ollama (local LLM inference)
+- Retrieval-Augmented Generation (RAG)
+- Prompt design, structured outputs, hallucination mitigation
 
 **Computer Vision**
 - OpenCV
 - Classical CV + Deep Learning
-- CNN / LSTM / hybrid models
+- CNN / LSTM / hybrid temporal models
 
 **Data & Infrastructure**
-- FAISS (vector search)
+- FAISS (vector similarity search)
 - MySQL, MongoDB
 - Docker, Git
 - AWS (foundational services)
 
 ---
 
-## 🚀 Representative Projects
+## 🚀 Selected Projects
 
-**RGB–Thermal Image Alignment System**  
-Feature-based homography alignment for real drone RGB + thermal sensors, including robust fallbacks for failure cases. Built for non-ideal, real-world data — not clean benchmarks.
+### RGB–Thermal Image Alignment  
+Feature-based geometric alignment of RGB and thermal imagery captured from different sensors.  
+Includes homography estimation, robustness checks, and fallback strategies for failure cases.
 
-**Change Detection Algorithm**  
-SSIM-based structural change detection that ignores illumination noise while detecting small but meaningful changes. Designed for surveillance-grade reliability.
+### Change Detection Algorithm  
+Structural change detection using SSIM, designed to ignore illumination noise while detecting meaningful object-level changes.  
+Built for batch processing and reproducibility.
 
-**Automated Template Filling (LLM + Anchors)**  
-AI-assisted document automation system combining rule-based anchoring with LLM reasoning to prevent hallucinations. Includes human-in-the-loop validation and deterministic outputs.
+### Automated Template Filling (LLM + Anchors)  
+Document automation pipeline combining deterministic rule-based extraction with LLM-assisted reasoning.  
+Designed to reduce hallucination risk via anchor-based grounding and human-in-the-loop validation.
 
-**Fire & Smoke Detection (IEEE)**  
-Research-driven CNN–LSTM hybrid for temporal consistency in vision tasks. Published work focused on deployment realism.
+### Fire & Smoke Detection (IEEE)  
+Hybrid CNN–LSTM model for temporal consistency in vision tasks.  
+Research-driven approach with emphasis on deployment feasibility.
 
 ---
 
-## 💼 Industry & Research Experience
+## 💼 Experience
 
 **Machine Learning Engineer Intern — Solitaire Infosys**  
-Built end-to-end ML pipelines, performed feature engineering on real datasets, and optimized model performance with a strong focus on reliability and validation.
+- Built end-to-end ML pipelines  
+- Performed feature engineering on real datasets  
+- Focused on model reliability, evaluation, and iteration  
 
 **Quantum Computing Researcher — IIT Roorkee**  
-Worked on quantum algorithms and computational speed-ups within a government-linked research environment, gaining exposure to research-grade problem formulation.
+- Studied quantum algorithm concepts  
+- Exposure to research-oriented problem formulation and analysis  
 
 ---
 
@@ -113,20 +116,20 @@ Worked on quantum algorithms and computational speed-ups within a government-lin
 
 ---
 
-## 💼 What I’m Looking For
+## 🎯 Interests & Roles
 
-Roles where I can work on:
-- Applied Machine Learning systems
+I am particularly interested in roles involving:
+- Applied Machine Learning
 - Computer Vision
-- LLM infrastructure & RAG
-- Research → Production pipelines
+- LLM infrastructure & RAG systems
+- Research-to-production ML pipelines
 
-Titles of interest:
+Target roles:
 **Machine Learning Engineer · Applied Scientist · AI Engineer**
 
 ---
 
-## 📬 Connect
+## 📬 Contact
 
 - **LinkedIn**: https://www.linkedin.com/in/nagendra-ojha-2k25/
 - **Email**: nagendraojha3152000@gmail.com
@@ -134,15 +137,8 @@ Titles of interest:
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧭 Perspective
 
-> AI is not magic.  
-> It is engineering, discipline, validation, and iteration.
+> Strong AI systems are built through careful engineering, not shortcuts.
 
-I build systems that **work when the data is messy, the rules are unclear, and the stakes are real**.
-
----
-
-⭐ If you’re reviewing this profile:  
-This is not a tutorial engineer.  
-This is someone building toward **serious AI systems**.
+I aim to grow as an engineer who can **reason deeply about models, systems, and trade-offs**, while shipping work that holds up outside ideal conditions.
