@@ -1,11 +1,12 @@
+
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=220&section=header&text=Nagendra%20Kumar%20Ojha&fontSize=42&fontAlignY=35&desc=AI%20/%20Machine%20Learning%20Engineer%20·%20Systems%20Builder&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=220&section=header&text=Nagendra%20Kumar%20Ojha&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20·%20LLM%20%7C%20Generative%20AI%20%7C%20Cloud%20Systems&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Engineering+Reliable+AI+Systems.;From+Computer+Vision+to+LLMs+and+RAG.;Research-Informed.+Production-Minded.;Correctness+Over+Hype." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems.;LLMs+%7C+RAG+%7C+Computer+Vision.;From+Research+to+Real-World+Deployment.;Reliability+Over+Hype." />
 </p>
 
 <p align="center">
@@ -16,17 +17,21 @@
 
 ## 🧠 About Me
 
-I am an **AI / Machine Learning Engineer** focused on building **robust, real-world AI systems** — not demos, not buzzwords, and not fragile pipelines.
+I am an **AI Engineer** focused on designing and deploying **production-ready AI systems** that solve real-world problems.
 
-My work lives at the intersection of:
-- **Applied Machine Learning**
-- **Computer Vision (real sensors, real noise)**
-- **Generative AI & LLM systems**
-- **RAG-based document intelligence**
-- **Research → Production pipelines**
+My work focuses on:
+- **Generative AI & Large Language Models (LLMs)**
+- **RAG-based document intelligence systems**
+- **Computer Vision for real-world environments**
+- **End-to-end ML pipelines**
+- **Cloud-based AI deployment**
 
-I care deeply about **correctness, validation, and failure modes**.  
-If a system breaks under scale, hallucinates, or fails silently — I redesign it.
+I prioritize:
+- Reliability over demos  
+- Deterministic fallbacks over blind automation  
+- Evaluation, monitoring, and failure handling  
+
+If a system fails under scale, produces unreliable outputs, or cannot be deployed — I redesign it.
 
 ---
 
@@ -36,81 +41,88 @@ If a system breaks under scale, hallucinates, or fails silently — I redesign i
   <img src="https://img.shields.io/badge/M.Tech-Data%20Science%20%26%20Analytics-7C4DFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-00E5FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IEEE-Published%20Author-FF4081?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIT%20Roorkee-Quantum%20Research-43A047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT%20Roorkee-Research%20Intern-43A047?style=for-the-badge" />
 </p>
 
-- **M.Tech — Data Science & Analytics**  
-  Lovely Professional University · **CGPA: 8.76 / 10**
+**M.Tech — Data Science & Analytics**  
+Lovely Professional University · CGPA: 8.76 / 10  
 
-- **B.Tech — Computer Science & Engineering**  
-  I.K. Gujral Punjab Technical University · **CGPA: 7.8 / 10**
+**B.Tech — Computer Science & Engineering**  
+I.K. Gujral Punjab Technical University · CGPA: 7.8 / 10  
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,aws,mysql,mongodb,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,aws,mysql,git&theme=dark" />
 </p>
 
-**Core Focus Areas**
+**Core Areas**
 - Machine Learning & Deep Learning  
+- Generative AI, LLMs, Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
 - Computer Vision  
-- LLMs & RAG Systems  
-- Data Engineering Fundamentals  
-- ML System Design  
+- MLOps & Cloud Deployment  
+- Data Processing & Feature Engineering  
 
 ---
 
-## 🚀 Featured Work (Visual Summary)
+## 🚀 Featured Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RGB--Thermal%20Alignment-Computer%20Vision-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Change%20Detection-Structural%20Analysis-7C4DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Template%20Automation-LLM%20%2B%20Anchors-FF4081?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fire%20%26%20Smoke%20Detection-IEEE%20Research-43A047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-LLM%20Applications-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Production%20Workflows-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Sensor%20Vision-RGB%20%2B%20Thermal-FF4081?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fire%20Detection-IEEE%20Research-43A047?style=for-the-badge" />
 </p>
 
-**What defines my projects**
-- Built for **non-ideal real data**
-- Deterministic fallbacks, not blind AI
-- Research-backed design choices
-- Production-aware pipelines
+Projects focus on:
+- Real-world noisy data  
+- Hybrid AI (rules + models)  
+- Production-ready architecture  
+- Scalable and maintainable pipelines  
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
+
+**AI Engineer — Clarity2Cloud Technology (Jan 2026 – Present)**  
+- Developing and deploying production-scale AI systems  
+- Building LLM workflows, RAG pipelines, and AI automation solutions  
+- Designing scalable FastAPI backends and cloud-integrated services  
+
+**AI & Digital Systems Intern — Gurukripa Electric Vehicles**  
+- Built automation tools and data-driven operational solutions  
 
 **Machine Learning Engineer Intern — Solitaire Infosys**  
-- Built end-to-end ML pipelines  
-- Feature engineering on real datasets  
-- Model evaluation, optimization, and iteration  
+- Developed end-to-end ML pipelines  
+- Performed feature engineering and model optimization  
 
-**Quantum Computing Researcher — IIT Roorkee**  
-- Studied quantum algorithms and speed-ups  
-- Research-oriented problem formulation  
+**Quantum Computing Research Intern — IIT Roorkee**  
+- Studied quantum algorithms and computational speedups  
+- Worked on research-based problem formulation  
 
 ---
 
-## 🎯 Roles & Interests
+## 🎯 Open To
 
-**Target Roles**
-- Machine Learning Engineer  
-- Applied Scientist  
 - AI Engineer  
+- Machine Learning Engineer  
+- Applied AI / Generative AI roles  
 
-**Interested Domains**
-- Applied ML systems  
-- Computer Vision  
-- LLM infrastructure & RAG  
-- Research-to-production workflows  
+**Focus Areas**
+- Generative AI & LLM Systems  
+- Production ML Engineering  
+- Cloud-based AI solutions  
+- Research-to-Deployment workflows  
 
 ---
 
 ## 📬 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagendra-ojha-2k25/">
+  <a href="https://www.linkedin.com/in/nagendra-kumar-ojha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:nagendraojha3152000@gmail.com">
@@ -123,15 +135,15 @@ If a system breaks under scale, hallucinates, or fails silently — I redesign i
 
 ---
 
-## 🧭 Philosophy
+## 🧭 Engineering Philosophy
 
-> **AI is not magic.**  
-> It is engineering, discipline, and iteration.
+> AI is not magic.  
+> It is engineering, evaluation, and iteration.
 
-I aim to grow into an engineer who builds systems that **work when conditions are messy, requirements are unclear, and reliability matters**.
+I focus on building systems that **work reliably under real-world conditions — not just in notebooks.**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=90&section=footer&text=From%20India%20·%20Building%20Serious%20AI&fontSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=90&section=footer&text=Building%20Production-Ready%20AI%20Systems&fontSize=18" />
 </p>
